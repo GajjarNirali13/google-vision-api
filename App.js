@@ -47,7 +47,7 @@ const HelloWorldApp = () => {
 			
 			
 			let response = await fetch(
-				"https://vision.googleapis.com/v1/images:annotate?key=AIzaSyCgnHPhS4hZsHBaCwOknZVhpflE8UgpOV4",       			
+				"https://vision.googleapis.com/v1/images:annotate?key=********",       			
 				{
 					headers: {
 						Accept: "application/json",
